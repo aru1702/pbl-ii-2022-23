@@ -1,0 +1,25 @@
+# ninja log v5
+1	30138	1673366953152456487	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_pool_kernel_cuda.o	911ba2ebc22ae20d
+1	30728	1673366953742456418	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_conv_kernel_cuda.o	6ff50da85906c1de
+0	33912	1673366956912456052	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cpu/nms_cpu.o	2a47cb32a8440148
+0	34036	1673366957042456038	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cpu/ROIAlign_cpu.o	99baf5213e32793c
+2	37405	1673366960402455651	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/vision.o	a0e249e04c716bda
+12	26215	1673371246571940280	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_pool_cuda.o	641519b09b98e3be
+12	26331	1673371246691940268	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/SigmoidFocalLoss_cuda.o	2afdc086a8d9b2eb
+12	26389	1673371246751940260	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_conv_cuda.o	d7806348eeda7933
+12	26584	1673371246941940237	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/ROIAlign_cuda.o	c33aac1c25be81af
+12	26598	1673371246961940235	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/nms.o	e974b545de2764ae
+12	26774	1673371247131940214	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/ROIPool_cuda.o	f25705cf9884e24d
+12	26778	1673371247141940214	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/ml_nms.o	8827cb3db642fff5
+13	35880	1673371284021935072	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_pool_cuda.o	94bf685ad5d193b0
+12	35906	1673371284041935070	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_conv_cuda.o	bfd4fa9822725fa
+12	35986	1673371284131935058	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/ROIAlign_cuda.o	ba7d42c4afd44311
+12	36049	1673371284191935049	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/SigmoidFocalLoss_cuda.o	e39dedf9dfeae761
+13	36070	1673371284211935048	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_pool_kernel_cuda.o	e41fb9aded7e8ea1
+12	36222	1673371284361935029	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/ROIPool_cuda.o	30af8105d96732f8
+13	36503	1673371284641934991	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/ml_nms.o	155bec027294c9b0
+12	36612	1673371284751934977	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/deform_conv_kernel_cuda.o	b90193ee2815d48
+13	36642	1673371284781934973	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cuda/nms.o	62db476a914b36b9
+11	40639	1673371288771934458	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cpu/ROIAlign_cpu.o	257a5f2abd672c61
+12	40762	1673371288891934441	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/cpu/nms_cpu.o	c7a31540fd16d28c
+13	43761	1673371291891934057	/home/aru/miniconda3/envs/fcos/FCOS/build/temp.linux-x86_64-cpython-38/fcos_core/csrc/vision.o	ab63a14f2ce69ca3

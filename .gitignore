@@ -1,0 +1,8 @@
+# Ignore everything:
+*/*
+fcos-rev2022/
+
+# Except:
+!README.md
+!FCOS/*
+!cocoapi/*
